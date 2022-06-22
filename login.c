@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void login()
+bool login()
 {
 	return TRUE;
 }
